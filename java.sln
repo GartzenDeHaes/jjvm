@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "java", "java.vjp", "{CEBB54A0-CFB7-11D4-993C-000102494781}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {CEBB54A0-CFB7-11D4-993C-000102494781}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {CEBB54A0-CFB7-11D4-993C-000102494781}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
